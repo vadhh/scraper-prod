@@ -5,4 +5,6 @@ __pycache__/
 venv/
 .venv/
 *.xlsx
+scraper_progress.json
+scraper.log
 .DS_Store
